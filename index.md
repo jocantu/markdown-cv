@@ -1,33 +1,28 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Joel Cantu's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Joel Cantu
+Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="luisjoel@msn.com">luisjoel@msn.com</a>
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Web Development, GIS, WebMaps.
 
 
-### Research interests
+### Work
 
 Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
+`March 1654-1660`
 __The King's School, Grantham.__
 
 `June 1661 - now`
